@@ -1,6 +1,8 @@
 # 2023-Arxiv-Paper-List-Gaussian-Splatting
 This is crawled to find out about the 2023 **gaussian splatting** papers in arxiv. There may be errors, so please leave a Pull Request or Issue and i will actively reflect it.
 
+Updated on December 22.
+
 # Paper List
 | # | Title | Authors | Abstract | Date | Link |
 |---|-------|---------|----------|------|------|
